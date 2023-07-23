@@ -2,11 +2,11 @@
 
 <br/>
 <p align="center">
-<img src="./img/nft-marketplace-image-1" width="500" alt="Hardhat NextJS Marketplace">
+<img src="./img/nft-marketplace-image-1.png" width="1000" alt="Hardhat NextJS Marketplace">
 </a>
 </p>
 <p align="center">
-<img src="./img/nft-marketplace-image-2" width="500" alt="Hardhat NextJS Marketplace">
+<img src="./img/nft-marketplace-image-2.png" width="1000" alt="Hardhat NextJS Marketplace">
 </a>
 </p>
 <br/>
