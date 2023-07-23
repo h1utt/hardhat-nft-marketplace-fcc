@@ -1,4 +1,4 @@
-const { moveBlocks } = require("..utils/move-blocks")
+const { moveBlocks } = require("../utils/move-blocks")
 
 const BLOCKS = 2
 const SLEEP_AMOUNT = 1000
